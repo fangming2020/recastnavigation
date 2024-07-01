@@ -1,0 +1,4 @@
+H:/Projects/recastnavigation/Recast/CMakeFiles/Recast.dir
+H:/Projects/recastnavigation/Recast/CMakeFiles/INSTALL.dir
+H:/Projects/recastnavigation/Recast/CMakeFiles/ALL_BUILD.dir
+H:/Projects/recastnavigation/Recast/CMakeFiles/ZERO_CHECK.dir
